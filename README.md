@@ -50,19 +50,6 @@ The notebook is organized into the following sections:
 * Increasing the number of clusters to k=4 improves classification accuracy.
 * The notebook concludes that k=4 might be a more suitable number of clusters for this dataset.
 
-## Usage
-
-To reproduce the analysis:
-
-1.  Ensure you have Python 3 installed.
-2.  Install the required libraries using pip:
-    ```bash
-    pip install numpy pandas matplotlib seaborn scikit-learn
-    ```
-3.  Place the `Live.csv` file in the same directory as the `K Means Clustering_Project.ipynb` notebook.
-4.  Open the notebook using Jupyter Notebook or JupyterLab.
-5.  Run the cells sequentially to execute the code and generate the results.
-
 ## Notes
 
 * The notebook provides detailed comments explaining each step of the analysis.
