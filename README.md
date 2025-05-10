@@ -48,14 +48,4 @@ The notebook is organized into the following sections:
 * The Elbow Method suggests k=2 as a potential optimal number of clusters.
 * K-Means with k=2 results in high inertia and low classification accuracy.
 * Increasing the number of clusters to k=4 improves classification accuracy.
-* The notebook concludes that k=4 might be a more suitable number of clusters for this dataset.
-
-## Notes
-
-* The notebook provides detailed comments explaining each step of the analysis.
-* You can modify the code to explore different values of k or other clustering parameters.
-* The interpretation of the clustering results may require domain knowledge to understand the significance of the identified groups.
-
-## Author
-
-* (If the notebook specifies an author, include it here. Otherwise, you can leave this out or add "Author: [Your Name]")
+* This notebook concludes that k=4 might be a more suitable number of clusters for this dataset.
